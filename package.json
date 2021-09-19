@@ -1,0 +1,31 @@
+{
+  "name": "ya-merge",
+  "version": "1.0.0",
+  "description": "Yet another deep merge function",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liksu/ya-merge.git"
+  },
+  "keywords": [
+    "deep",
+    "merge",
+    "extend",
+    "copy",
+    "clone",
+    "recursive",
+    "json",
+    "deep-merge",
+    "assign"
+  ],
+  "author": "Petro Borshchahivskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liksu/ya-merge/issues"
+  },
+  "homepage": "https://github.com/Liksu/ya-merge#readme"
+}
