@@ -1,6 +1,6 @@
 {
   "name": "ya-merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another deep merge function",
   "main": "index.js",
   "type": "module",

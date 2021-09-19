@@ -1,1 +1,1 @@
-export {default} from '../deep-merge.js'
+export {default} from './deep-merge.js'
